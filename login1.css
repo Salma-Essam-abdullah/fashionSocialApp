@@ -1,0 +1,46 @@
+body{
+	background-image:url(img.jpeg);
+	height:70vh;
+	background-size:cover;
+}
+p{
+	color:white;
+	font-size:15px;
+	font-weight:bold;
+	
+	
+}
+.form{
+position: fixed;
+bottom: 50;
+right: 550;
+margin:auto;
+width:360px;
+height:500px;
+padding:45px;
+background-image:url(img3.jpeg);
+z-index:1;
+text-align:center;
+margin:center;
+}
+.form input{
+	font-family:"sans-serif";
+width:100%;
+border:0;
+box-sizing:border-box;
+margin:0 5 50px;
+padding:15px;
+font-size:20px;
+height:40px;
+}
+form .button{
+		font-family:"sans-serif";
+	width:40%;
+	
+	font-size:20px;
+		height:50px;
+		cursor:pointer;
+		background-color:beige;
+}
+
+

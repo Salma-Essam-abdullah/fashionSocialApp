@@ -1,0 +1,46 @@
+body{
+    background-image: url("Image.jpeg");
+
+    
+}
+.box{
+    border:1px solid rgba(236, 234, 234, 0.664);
+    width: 350px;
+    background-color:rgba(236, 234, 234, 0.664) ;
+    position: relative;
+    top: 100px;
+    left: 28%;
+    height: 500px;
+    width: 50%;
+}
+.image{
+    position: relative;
+    left:40px;
+    bottom: -10px;
+}
+.parag{
+    position: relative;
+    left:290px;
+    bottom:200px;
+    font-size:45px;
+}
+.pa{
+    position: relative;
+    left:300px;
+    bottom: 200px;
+    font-size: X-large;
+}
+.img{
+    position: relative;
+    left:90px;
+    bottom: 120px;
+    width: 200px;
+    height: 200px;
+}
+.imgg{
+    position: relative;
+    left:260px;
+    bottom: 120px;
+    width: 200px;
+    height: 200px;
+}

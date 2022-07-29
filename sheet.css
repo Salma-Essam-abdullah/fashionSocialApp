@@ -1,0 +1,127 @@
+body{
+    margin: 0;
+    padding: 0;
+	background-color: #edeeef;
+}
+*{
+	margin: 0;
+    padding: 0;
+}
+.image{
+    background-color:#dbc8b6;
+	height:450px;
+	margin:0;
+    padding:0;
+}
+.header{
+	border:8px solid #DDD;
+	width:380px;
+    height:300px;
+}
+.mydiv{
+    position: absolute;
+    bottom: 260px;
+    left: 5%;
+}
+.head{
+	border:8px solid #DDD;
+	width:380px;
+    height:300px;
+}
+.div{
+    position: absolute;
+    bottom: 260px;
+    left: 37%;
+}
+.r{
+	border:8px solid #DDD;
+	width:380px;
+    height:300px;
+}
+.my{
+    position: absolute;
+    bottom: 260px;
+    left: 70%;
+}
+h1{
+    color: #4e4c4c;
+    text-align: center;
+    font-size:500%;
+    position:absolute;
+    top: 17px;
+    left: 41%;
+}
+.txt{
+	font-size: xx-large;
+	font-weight: bolder;
+	color: rgb(77, 77, 73);
+	position: absolute;
+	left: 500px;
+	bottom: 180px;
+}
+.myform{
+	position: absolute;
+	left: 550px;
+	bottom: 30px;
+}
+.s{
+	font-size: large;
+	background-color: #dbc8b6;
+	height: 30px;
+	width: 100px;
+}
+.t{
+	height: 30px;
+}
+
+input[type="file"]{
+	display:none ;
+}
+.up{
+	border:15px solid #dbc8b6;
+    width: 200px;
+    background-color:#dbc8b6;
+    position: relative;
+    top: -10px;
+    left: 30%;
+    height: 100px;
+}
+.post{
+	border: 2px dashed black;
+	width: 1000px;
+	height: 1000px;
+	position: relative;
+	left: 250px;
+	bottom: -90px;
+}
+.first_post{
+	border:15px solid #d8cdc2;
+    background-color:#d8cdc2;
+	position: relative;
+	left: 1px;
+	bottom: -120px;
+	width: 970px;
+	height: 150px;
+}
+.second_post{
+	border:15px solid #d8cdc2;
+    background-color:#d8cdc2;
+	position: relative;
+	left: 1px;
+	bottom: -140px;
+	width: 970px;
+	height: 150px;
+}
+.photo{
+	position: relative;
+	height: 300px;
+	left: 500px;
+	top: -95px;
+}
+p{
+	font-size: 20px;
+}
+.name{
+	color: rgb(100, 99, 99);
+}
+
